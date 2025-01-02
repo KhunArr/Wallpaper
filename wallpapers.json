@@ -11,6 +11,12 @@
             "url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ-Qe7jxZSlHgoZ1wxvHbeIxcnW6nVpccPWXA&usqp=CAU",
             "categories": "Kitten",
             "premium": true
+        },
+        {
+            "name": "home",
+            "url": "https:\/\/www.peakpx.com\/en\/hd-wallpaper-desktop-nymge\/download\/3840x2160",
+            "categories": "Kitten",
+            "premium": false
         }
     ]
 }
