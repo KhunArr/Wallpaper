@@ -2,9 +2,10 @@
     "wallpapers": [
         {
             "categories": "Kitten",
-            "name": "Kitten 001",
+            "name": "Kitten",
             "premium": false,
-            "url": "https:\/\/w0.peakpx.com\/wallpaper\/258\/887\/HD-wallpaper-anime-anime-girls-digital-art-artwork-portrait-display-vertical-2d.jpg"
+            "url": "https:\/\/w0.peakpx.com\/wallpaper\/258\/887\/HD-wallpaper-anime-anime-girls-digital-art-artwork-portrait-display-vertical-2d.jpg",
+            "isPremium": false
         },
         {
             "categories": "Kitten",
