@@ -1,4 +1,5 @@
-[
+{
+    "categ": [
   {
     "name": "Kitten",
     "preview1": "https://w0.peakpx.com/wallpaper/803/824/HD-wallpaper-simple-background-digital-art-artwork-anime-anime-girls-neko-ears-thumbnail.jpg",
@@ -124,5 +125,6 @@
     "preview1": "https://image.cdn2.seaart.ai/2023-10-27/21057181803619333/8c386cc3e40c6dbf014b5ec28a1c348014d3907d_low.webp",
     "preview2": "https://image.cdn2.seaart.ai/2024-05-11/covj945e878c73ea5cq0/f38aed9214144fb4664244cdedd92e28847dc62b_low.webp",
     "preview3": "https://image.cdn2.seaart.ai/static/871878e061345afd7514afdf658cfc96/20231010/1f1cdc684821daa532917b44475ed612_low.webp"
-  }
-]
+   }
+    ]
+}
