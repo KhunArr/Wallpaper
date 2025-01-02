@@ -3,9 +3,8 @@
         {
             "categories": "Kitten",
             "name": "ခွန်အား ပအိုဝ်ႏပေး",
-            "premium": false,
             "url": "https:\/\/w0.peakpx.com\/wallpaper\/258\/887\/HD-wallpaper-anime-anime-girls-digital-art-artwork-portrait-display-vertical-2d.jpg",
-            "isPremium": true
+            "premium": false
         },
         {
             "categories": "Kitten",
@@ -16,9 +15,8 @@
         {
             "categories": "ခွ",
             "name": "ကက",
-            "premium": false,
             "url": "https:\/\/w0.peakpx.com\/wallpaper\/509\/458\/HD-wallpaper-anime-anime-girls-digital-art-artwork-2d-portrait-display-vertical.jpg",
-            "isPremium": true
+            "premium": false
         },
         {
             "categories": "Kitten",
@@ -84,7 +82,7 @@
             "name": "ကက",
             "url": "https:\/\/w0.peakpx.com\/wallpaper\/509\/458\/HD-wallpaper-anime-anime-girls-digital-art-artwork-2d-portrait-display-vertical.jpg",
             "categories": "ခွ",
-            "isPremium": false
+            "premium": false
         }
     ]
 }
