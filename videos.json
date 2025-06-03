@@ -1,10 +1,14 @@
-[
-  {
-    "name": "Beautiful Waves",
-    "url": "https://motionbgs.com/dl/mhd/2892"
-  },
-  {
-    "name": "City Lights",
-    "url": "https://motionbgs.com/dl/mhd/128"
-  }
-]
+{
+  "videos": [
+    {
+      "name": "Your Video Name",
+      "url": "https://motionbgs.com/dl/mhd/7787",
+      "thumbnail": "https://motionbgs.com/i/c/235x418/media/7787/whispers-in-blue-silence.720x1280.jpg.webp"
+    },
+     {
+      "name": "Your Video Name",
+      "url": "https://motionbgs.com/dl/mhd/7728",
+      "thumbnail": "https://motionbgs.com/i/c/235x418/media/7728/naruto-burning-resolve.720x1280.jpg.webp"
+    }
+  ]
+}
